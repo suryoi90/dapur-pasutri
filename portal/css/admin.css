@@ -1,0 +1,107 @@
+:root {
+  --ivory: #FBF4EB;
+  --oxblood: #2A0E0C;
+  --gold: #F3B01C;
+  --gold-dim: #E0A317;
+  --chili: #C1272D;
+  --ink: #2C1810;
+  --ink-soft: rgba(44, 24, 16, 0.65);
+  --card-bg: #FFFFFF;
+  --border: rgba(44, 24, 16, 0.12);
+  --radius: 12px;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  background: var(--ivory);
+  color: var(--ink);
+  padding: 32px 20px;
+}
+
+.auth-shell {
+  max-width: 440px;
+  margin: 60px auto;
+}
+
+.card {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  padding: 36px;
+  box-shadow: 0 10px 30px rgba(42, 14, 12, 0.08);
+  border: 1px solid var(--border);
+}
+
+h1 {
+  font-size: 1.8rem;
+  color: var(--oxblood);
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-top: 18px;
+  margin-bottom: 6px;
+  color: var(--oxblood);
+}
+
+input, textarea, select {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  font: inherit;
+  background: #FFF;
+}
+
+input:focus, textarea:focus {
+  outline: none;
+  border-color: var(--gold-dim);
+  box-shadow: 0 0 0 3px rgba(243, 176, 28, 0.2);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 24px;
+  border-radius: 99px;
+  font-weight: 700;
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background: var(--oxblood);
+  color: #FFF;
+  width: 100%;
+}
+
+.btn-primary:hover {
+  background: #4A1915;
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--ink-soft);
+  text-align: center;
+  margin-top: 14px;
+  font-size: 0.9rem;
+}
+
+.badge-tag {
+  display: inline-block;
+  padding: 4px 10px;
+  background: var(--gold);
+  color: var(--oxblood);
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 700;
+}

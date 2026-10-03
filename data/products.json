@@ -1,0 +1,74 @@
+[
+  {
+    "id": "stick-kentang-foil-premium",
+    "category": "Premium Pack",
+    "name": "Stick Kentang 100% Kentang Asli (Gold Foil)",
+    "price": 28000,
+    "desc": "Stik kentang renyah premium dari 100% kentang asli pilihan dengan bumbu rahasia gurih alami. Kemasan standing pouch matte beraksen gold foil mewah 200gr.",
+    "image": "images/uploads/stick-kentang-foil-premium.jpg",
+    "featured": true,
+    "whatsapp": "https://wa.me/6285775932525",
+    "shopee": "https://shopee.co.id/toko.dapurpasutri",
+    "tokopedia": "https://tokopedia.com/dapurpasutri"
+  },
+  {
+    "id": "stick-kentang-spicy-pouch",
+    "category": "Pedas & Gurih",
+    "name": "Stick Kentang Spicy (Pouch Zipper)",
+    "price": 25000,
+    "desc": "Sensasi pedas meler berpadu gurih renyahnya stik kentang asli bertabur cabai segar dan rempah alami. Tersedia ukuran 250gr & 500gr dengan ziplock kedap udara.",
+    "image": "images/uploads/stick-kentang-spicy-pouch.jpg",
+    "featured": true,
+    "whatsapp": "https://wa.me/6285775932525",
+    "shopee": "https://shopee.co.id/toko.dapurpasutri",
+    "tokopedia": "https://tokopedia.com/dapurpasutri"
+  },
+  {
+    "id": "stick-kentang-original-pouch",
+    "category": "Original Gurih",
+    "name": "Stick Kentang Original (Pouch Zipper)",
+    "price": 25000,
+    "desc": "Rasa original legendaris dengan cita rasa gurih asin khas kentang asli nusantara. Tekstur ekstra renyah tanpa pengawet, cocok untuk camilan keluarga.",
+    "image": "images/uploads/stick-kentang-original-pouch.jpg",
+    "featured": true,
+    "whatsapp": "https://wa.me/6285775932525",
+    "shopee": "https://shopee.co.id/toko.dapurpasutri",
+    "tokopedia": "https://tokopedia.com/dapurpasutri"
+  },
+  {
+    "id": "stick-kentang-seaweed-pouch",
+    "category": "Seaweed Umami",
+    "name": "Stick Kentang Seaweed Nori (Pouch Zipper)",
+    "price": 27000,
+    "desc": "Inovasi rasa gurih umami dengan taburan rumput laut (nori) panggang asli berpadu stik kentang renyah keemasan. Kemasan zipper pouch 250gr & 500gr.",
+    "image": "images/uploads/stick-kentang-seaweed-pouch.jpg",
+    "featured": true,
+    "whatsapp": "https://wa.me/6285775932525",
+    "shopee": "https://shopee.co.id/toko.dapurpasutri",
+    "tokopedia": "https://tokopedia.com/dapurpasutri"
+  },
+  {
+    "id": "stick-kentang-canister-tube",
+    "category": "Canister Series",
+    "name": "Stick Kentang Tube Canister 125gr",
+    "price": 22000,
+    "desc": "Kemasan tabung canister eksklusif kedap udara, anti-remuk dan praktis dibawa bepergian. Tersedia dalam varian Original Gurih & Spicy Pedas.",
+    "image": "images/uploads/stick-kentang-canister.jpg",
+    "featured": false,
+    "whatsapp": "https://wa.me/6285775932525",
+    "shopee": "https://shopee.co.id/toko.dapurpasutri",
+    "tokopedia": "https://tokopedia.com/dapurpasutri"
+  },
+  {
+    "id": "paket-bundling-pasutri",
+    "category": "Paket Hemat",
+    "name": "Paket Bundling 3 Rasa (Trio Pasutri)",
+    "price": 75000,
+    "desc": "Paket spesial hemat isi 3 pouch lengkap: Original, Spicy, dan Seaweed Nori. Pilihan favorit untuk stok camilan di rumah atau kantor.",
+    "image": "images/uploads/stick-kentang-original-pouch.jpg",
+    "featured": false,
+    "whatsapp": "https://wa.me/6285775932525",
+    "shopee": "https://shopee.co.id/toko.dapurpasutri",
+    "tokopedia": "https://tokopedia.com/dapurpasutri"
+  }
+]
